@@ -23,8 +23,8 @@ This project is a simple login page created using HTML, CSS, and JavaScript. It 
 
 ## Prerequisites
 
-A web browser (Chrome, Firefox, Safari, etc.).
-Internet connection to access the API.
+- A web browser (Chrome, Firefox, Safari, etc.).
+- Internet connection to access the API.
 
 ## Live Demo
 Check out the live demo here: https://jbharti-ai.github.io/Login_Page/
